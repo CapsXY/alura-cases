@@ -1,7 +1,7 @@
 <h1 align="center"> Alura Cases </h1>
 
 <p align="center">
-Curso da Alura focado em Next.js
+Curso Next.js explorando o framework
 </p>
 
 <p align="center">
@@ -48,4 +48,3 @@ Você pode visualizar o layout do projeto através [desse link](https://alura-ca
 ## 📄 Licença
 
 Esse projeto está sob a licença MIT.
-
